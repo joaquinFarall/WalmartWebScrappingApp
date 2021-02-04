@@ -3,5 +3,5 @@
 ### used Node, Express, ejs, mongoose, puppeteer, cheerio, passport, connect-flash and other npm packages
 
 #### To use: 
->npm init 
->npm i express passport cheerio ejs dotenv puppeteer node-mailer method-override path mongoose express-session body-parser connect-flash --save
+> $ npm init 
+> $ npm i express passport cheerio ejs dotenv puppeteer node-mailer method-override path mongoose express-session body-parser connect-flash --save
